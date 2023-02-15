@@ -4,5 +4,3 @@
 3) >Markdown 
    >>blockQuote 
    >>>Demo
-
->>**The Markdown** _Intro_
